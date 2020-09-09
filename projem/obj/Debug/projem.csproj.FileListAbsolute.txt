@@ -1,0 +1,59 @@
+c:\users\furkan koç\documents\visual studio 2015\Projects\projem\projem\bin\Debug\projem.exe.config
+C:\Users\Furkan KOÇ\Documents\Visual Studio 2015\Projects\projem\projem\bin\Debug\projem.exe
+C:\Users\Furkan KOÇ\Documents\Visual Studio 2015\Projects\projem\projem\bin\Debug\projem.pdb
+C:\Users\Furkan KOÇ\Documents\Visual Studio 2015\Projects\projem\projem\obj\Debug\projem.csprojResolveAssemblyReference.cache
+C:\Users\Furkan KOÇ\Documents\Visual Studio 2015\Projects\projem\projem\obj\Debug\projem.Form1.resources
+C:\Users\Furkan KOÇ\Documents\Visual Studio 2015\Projects\projem\projem\obj\Debug\projem.frmGuncelle.resources
+C:\Users\Furkan KOÇ\Documents\Visual Studio 2015\Projects\projem\projem\obj\Debug\projem.Properties.Resources.resources
+C:\Users\Furkan KOÇ\Documents\Visual Studio 2015\Projects\projem\projem\obj\Debug\projem.csproj.GenerateResource.Cache
+C:\Users\Furkan KOÇ\Documents\Visual Studio 2015\Projects\projem\projem\obj\Debug\projem.exe
+C:\Users\Furkan KOÇ\Documents\Visual Studio 2015\Projects\projem\projem\obj\Debug\projem.pdb
+C:\Users\Furkan KOÇ\Documents\Visual Studio 2015\Projects\projem\projem\obj\Debug\projem.frmKaydet.resources
+C:\Users\Furkan KOÇ\Documents\Visual Studio 2015\Projects\projem\projem\obj\Debug\projem.frmMenu.resources
+C:\Users\Furkan KOÇ\Documents\Visual Studio 2015\Projects\projem\projem\obj\Debug\projem.frmMusteriIslemleri.resources
+C:\Users\Furkan KOÇ\Documents\Visual Studio 2015\Projects\projem\projem\obj\Debug\projem.frmMusteriler.resources
+C:\Users\Furkan KOÇ\Documents\Visual Studio 2015\Projects\projem\projem\obj\Debug\projem.frmRezervasyonIslemleri.resources
+C:\Users\Furkan KOÇ\Documents\Visual Studio 2015\Projects\projem\projem\obj\Debug\projem.frmYeniUyeKayit.resources
+C:\Users\Furkan KOÇ\Desktop\projem\projem\bin\Debug\projem.exe.config
+C:\Users\Furkan KOÇ\Desktop\projem\projem\obj\Debug\projem.exe
+C:\Users\Furkan KOÇ\Desktop\projem\projem\obj\Debug\projem.pdb
+C:\Users\Furkan KOÇ\Desktop\projem\projem\bin\Debug\projem.exe
+C:\Users\Furkan KOÇ\Desktop\projem\projem\bin\Debug\projem.pdb
+C:\Users\Furkan KOÇ\Desktop\projem\projem\obj\Debug\projem.csprojResolveAssemblyReference.cache
+C:\Users\Furkan KOÇ\Desktop\projem\projem\obj\Debug\projem.Form1.resources
+C:\Users\Furkan KOÇ\Desktop\projem\projem\obj\Debug\projem.frmKaydet.resources
+C:\Users\Furkan KOÇ\Desktop\projem\projem\obj\Debug\projem.frmMusteriIslemleri.resources
+C:\Users\Furkan KOÇ\Desktop\projem\projem\obj\Debug\projem.frmYeniUyeKayit.resources
+C:\Users\Furkan KOÇ\Desktop\projem\projem\obj\Debug\projem.Properties.Resources.resources
+C:\Users\Furkan KOÇ\Desktop\projem\projem\obj\Debug\projem.csproj.GenerateResource.Cache
+C:\Users\Furkan KOÇ\Desktop\projem\projem\obj\Debug\projem.OtelSecim.resources
+C:\Users\Furkan KOÇ\Desktop\projem\projem\obj\Debug\projem.frmDedemanRezervasyon.resources
+C:\Users\Furkan KOÇ\Desktop\projem\projem\obj\Debug\projem.frmHiltonRezervasyon.resources
+C:\Users\Furkan KOÇ\Desktop\projem\projem\obj\Debug\projem.frmKutberkRezervasyon.resources
+C:\Users\Furkan KOÇ\Desktop\projem\projem\obj\Debug\projem.frmDedemanRezervasyonİslemleri.resources
+C:\Users\Furkan KOÇ\Desktop\projem\projem\obj\Debug\projem.frmAdminOtelSecim.resources
+C:\Users\Furkan KOÇ\Desktop\projem\projem\obj\Debug\projem.frmDedemanGuncelle.resources
+C:\Users\Furkan KOÇ\Desktop\projem\projem\obj\Debug\projem.frmDedemanMusteriler.resources
+C:\Users\Furkan KOÇ\Desktop\projem\projem\obj\Debug\projem.frmHiltonGuncelle.resources
+C:\Users\Furkan KOÇ\Desktop\projem\projem\obj\Debug\projem.frmHiltonMusteriler.resources
+C:\Users\Furkan KOÇ\Desktop\projem\projem\obj\Debug\projem.frmHiltonRezervasyonIslemleri.resources
+C:\Users\Furkan KOÇ\Desktop\projem\projem\obj\Debug\projem.frmKutberkGuncelle.resources
+C:\Users\Furkan KOÇ\Desktop\projem\projem\obj\Debug\projem.frmKutberkMusteriler.resources
+C:\Users\Furkan KOÇ\Desktop\projem\projem\obj\Debug\projem.frmKutberkRezervasyonIslemleri.resources
+C:\Users\Furkan KOÇ\Desktop\projem\projem\obj\Debug\projem.frmEceSarayGuncelle.resources
+C:\Users\Furkan KOÇ\Desktop\projem\projem\obj\Debug\projem.frmEceSarayMusteriler.resources
+C:\Users\Furkan KOÇ\Desktop\projem\projem\obj\Debug\projem.frmEceSarayRezervasyon.resources
+C:\Users\Furkan KOÇ\Desktop\projem\projem\obj\Debug\projem.frmEceSarayRezervasyonIslemleri.resources
+C:\Users\Furkan KOÇ\Desktop\projem\projem\obj\Debug\projem.frmAntalyaSuGuncelle.resources
+C:\Users\Furkan KOÇ\Desktop\projem\projem\obj\Debug\projem.frmAntalyaSuMusteriler.resources
+C:\Users\Furkan KOÇ\Desktop\projem\projem\obj\Debug\projem.frmAntalyaSuRezervasyon.resources
+C:\Users\Furkan KOÇ\Desktop\projem\projem\obj\Debug\projem.frmAntalyaSuRezervasyonIslemleri.resources
+C:\Users\Furkan KOÇ\Desktop\OtelProje\projem\bin\Debug\projem.exe.config
+C:\Users\Furkan KOÇ\Desktop\OtelProje\projem\obj\Debug\projem.exe
+C:\Users\Furkan KOÇ\Desktop\OtelProje\projem\obj\Debug\projem.pdb
+C:\Users\Furkan KOÇ\Desktop\460115017_Furkan KOÇ_OtelRezervasyon\OtelProje\projem\bin\Debug\projem.exe.config
+C:\Users\Furkan KOÇ\Desktop\460115017_Furkan KOÇ_OtelRezervasyon\OtelProje\projem\obj\Debug\projem.exe
+C:\Users\Furkan KOÇ\Desktop\460115017_Furkan KOÇ_OtelRezervasyon\OtelProje\projem\obj\Debug\projem.pdb
+E:\OKUL\bunlar ne la\460115017_Furkan KOÇ_OtelRezervasyon\OtelProje\projem\bin\Debug\projem.exe.config
+E:\OKUL\bunlar ne la\460115017_Furkan KOÇ_OtelRezervasyon\OtelProje\projem\obj\Debug\projem.exe
+E:\OKUL\bunlar ne la\460115017_Furkan KOÇ_OtelRezervasyon\OtelProje\projem\obj\Debug\projem.pdb
